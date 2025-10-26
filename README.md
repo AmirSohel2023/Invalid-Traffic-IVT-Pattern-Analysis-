@@ -1,1 +1,1 @@
-# Invalid-Traffic-IVT-Pattern-Analysis-
+# Invalid-Traffic-IVT-Pattern-Analysis-  This Power BI analysis demonstrates that User-Agent spoofing patterns and abnormal request-to-device ratios are the strongest indicators of IVT. Apps flagged early had immediate spoofing activity, while others developed it over time. By tracking idfa_ua_ratio trends and using anomaly detection, we can predict IVT risk before traffic is officially marked invalid.
